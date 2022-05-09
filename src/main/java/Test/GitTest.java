@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("我真的会害怕");
         System.out.println("Laia");
         System.out.println("推送到远程库");
+        System.out.println("再次进行推送");
     }
 }
