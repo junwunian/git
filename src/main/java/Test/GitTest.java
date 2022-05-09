@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("我就没怕过谁");
         System.out.println("会不会冲突呢");
         System.out.println("我真的会害怕");
+        System.out.println("Laia");
     }
 }
