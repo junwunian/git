@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hot-fix修改");
         System.out.println("我就没怕过谁");
         System.out.println("会不会冲突呢");
+        System.out.println("Laia");
     }
 }
